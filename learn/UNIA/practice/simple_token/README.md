@@ -12,4 +12,10 @@ Go to [Remix](https://remix.ethereum.org) and copy the SmartContract code you ca
 
 ![1.remix](./img/1.remix.png)
 
-After that, you can deploy your token
+After that, you can deploy your token. Also, you can change your token `name` and `symbol` and customize it.
+
+Once you have deployed your contract, you can add your token on Metamask:
+
+![2.agg-token](./img/2.agg-token.png)
+
+![3.add-token](./img/3.add-token.png)
